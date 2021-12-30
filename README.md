@@ -1,7 +1,7 @@
 # react-grocery
 
 This is my first try of react.js with the tutorial of @freeCodeCamp.org </br>
-May have many bud </br>
+const Alert = 'May have many bud T^T' </br>
 
 
 The main project: ./src/App.js</br>
